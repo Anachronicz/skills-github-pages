@@ -1,4 +1,4 @@
 ---
-title: Saravana Hari M portfolio
+title: Saravana Hari portfolio
 theme: minima
 ---
